@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndDraw</string>
+    <string name="StartDraw">StartDraw</string>
+    <string name="ClearScreen">ClearScreen</string>
+    <string name="title_activity_and_drawing">AndDrawingActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
