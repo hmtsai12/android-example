@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">socketTCP</string>
+    <string name="IP">IP</string>
+    <string name="Port">Port</string>
+    <string name="Command">Command</string>
+    <string name="Send">Send</string>
+
+</resources>
