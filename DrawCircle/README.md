@@ -1,2 +1,2 @@
-this is example for running OnView() using invalidate()
+tis is example for running OnDraw() using invalidate()
 The screen always draw a circle.
