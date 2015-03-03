@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">socketUDP</string>
+    <string name="Send">Send</string>
+    <string name="IP">IP</string>
+    <string name="Port">Port</string>
+
+</resources>
